@@ -15,7 +15,7 @@
 
 | Question                                                                          | Difficulty | Practice             | Approach                 | Good to review |
 | --------------------------------------------------------------------------------- | ---------- | -------------------- | ------------------------ | -------------- |
-| [kth Largest Element](/Heap/Kth_largest.py) [website link](https://leetcode.com/problems/kth-largest-element-in-an-array/solution/)                          | 🔵         |    A       | HEAP                 | ✅             |
+| [kth Largest Element](/Heap/Kth_largest/kth_largest.py) [website link](https://leetcode.com/problems/kth-largest-element-in-an-array/solution/)                          | 🔵         |    A       | HEAP                 | ✅             |
 
 
 
