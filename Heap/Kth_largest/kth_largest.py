@@ -41,7 +41,7 @@ class Solution:
 
 #         import heapq
     
-#         #Built in method #O(N * logk) time and 0(K) space  (in reality it is N+ (N * logk), first N has to do with heapify)
+#         #Built in method #O(N * logk) time and 0(K) space  (in reality it is k+ (N * logk), first k has to do with heapify)
         
 #         return heapq.nlargest(k, nums)[-1] #returns kth largest from biggest to smallest k, we want the kth one
         
