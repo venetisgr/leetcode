@@ -19,3 +19,9 @@
 
 
 
+
+# Linked Lists
+
+| Question                                                                          | Difficulty | Practice             | Approach                 | Good to review |
+| --------------------------------------------------------------------------------- | ---------- | -------------------- | ------------------------ | -------------- |
+| [Middle of the Linked List](/Linked_Lists/middle_of_list/middle_of_list.py) [website link](https://leetcode.com/problems/middle-of-the-linked-list/)                          | 🟢         |    A       | Fast and Slow pointers                 | ✅             |
