@@ -18,7 +18,7 @@
 | [kth Largest Element](/Heap/Kth_largest/kth_largest.py) [website link](https://leetcode.com/problems/kth-largest-element-in-an-array/solution/)                          | 🔵         |    A       | HEAP                 | ✅             |
 
 
-
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/
 
 # Linked Lists
 
@@ -29,3 +29,5 @@
 | [Swap Nodes in pairs](/Linked_Lists/swap_nodes/swap_nodes.py) [website link](https://leetcode.com/problems/swap-nodes-in-pairs/)                          | 🔵         |    A       | while loop                |            |
 | [Two number sum](/Linked_Lists/two_number_sum/two_number_sum.py) [website link](https://leetcode.com/problems/add-two-numbers/submissions/)                          | 🟢         |    A       | while loop                | ✅            |
 | [Node Delete](/Linked_Lists/delete_node/delete_node.py) [website link](https://leetcode.com/problems/delete-node-in-a-linked-list/)                          | 🟢         |    A       | smart trick             | ✅            |
+| [Duplicate Node Delete](/Linked_Lists/remove_duplicate/remove_duplicate.py) [website link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/)                          | 🟢         |    A       | while           |            |
+
