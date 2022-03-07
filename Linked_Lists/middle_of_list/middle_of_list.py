@@ -2,7 +2,7 @@ class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
         
         #Fast and Slow pointer
-        #Fst pointer does two steps while slow one. By the time fast reaches the end, slow is in the middle
+        #Fast pointer does two steps while slow one. By the time fast reaches the end, slow is in the middle
         
         slow = head
         fast = head
