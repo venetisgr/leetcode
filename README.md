@@ -28,4 +28,4 @@
 | [Merge two sorted lists](/Linked_Lists/merge_sorted/merge_sorted.py) [website link](https://leetcode.com/problems/merge-two-sorted-lists/)                          | 🟢         |    A       | while loop                | ✅            |
 | [Swap Nodes in pairs](/Linked_Lists/swap_nodes/swap_nodes.py) [website link](https://leetcode.com/problems/swap-nodes-in-pairs/)                          | 🔵         |    A       | while loop                |            |
 | [Two number sum](/Linked_Lists/two_number_sum/two_number_sum.py) [website link](https://leetcode.com/problems/add-two-numbers/submissions/)                          | 🟢         |    A       | while loop                | ✅            |
-| [Two number sum](/Linked_Lists/delete_node/delete_node.py) [website link](https://leetcode.com/problems/delete-node-in-a-linked-list/)                          | 🟢         |    A       | smart trick             | ✅            |
+| [Node Delete](/Linked_Lists/delete_node/delete_node.py) [website link](https://leetcode.com/problems/delete-node-in-a-linked-list/)                          | 🟢         |    A       | smart trick             | ✅            |
