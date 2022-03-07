@@ -18,7 +18,7 @@
 | [kth Largest Element](/Heap/Kth_largest/kth_largest.py) [website link](https://leetcode.com/problems/kth-largest-element-in-an-array/solution/)                          | 🔵         |    A       | HEAP                 | ✅             |
 
 
-https://leetcode.com/problems/swap-nodes-in-pairs/
+
 
 # Linked Lists
 
